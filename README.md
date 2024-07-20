@@ -1,5 +1,10 @@
-## Hi there 👋
+## About ME👋
+- 🔭 I'm Zhixiong Zhang.
+- 💻 I'm now a CS Bachlor candidate @HIT, majored in AI.
+- 🌱 My research interests mainly focus on Multi-modal Large Language Models and Generative Models.
+- 👯 I’m always open for academic collaboration to make more creative works. Do not hesitate to contact me if you have any things or questions want to discuss. Contact me via zzxiong16@163.com
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rookiexiong7)](https://git.io/streak-stats)
 <!--
 **rookiexiong7/rookiexiong7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ✨ I am Always happy to explore new things!
 -->
