@@ -1,6 +1,6 @@
 ## About ME👋
 - 🔭 I'm Zhixiong Zhang.
-- 💻 I'm now a CS Bachlor candidate @HIT, majored in AI.
+- 💻 I'm now a CS Bachelor candidate @HIT, majored in AI.
 - 🌱 My research interests mainly focus on Multi-modal Large Language Models and Generative Models.
 - 👯 I’m always open for academic collaboration to make more creative works. Do not hesitate to contact me if you have any things or questions want to discuss. Contact me via zzxiong16@163.com
 
