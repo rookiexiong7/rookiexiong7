@@ -1,8 +1,9 @@
 ## About ME👋
-- 🔭 I'm Zhixiong Zhang.
-- 💻 I'm now a CS Bachelor candidate @Harbin Institute of Technology, also a Research Intern @Shanghai AI Laboratory.
-- 🌱 My research interests mainly focus on Multi-modal Large Language Models and Generative Models.
-- 👯 I’m always open for academic collaboration to make more creative works. Do not hesitate to contact me if you have any things or questions want to discuss. Contact me via zzxiong16@163.com
+- 😄 Hi，I'm Zhixiong Zhang.
+- 💻 I am in my final year as a bachelor's degree candidate at Harbin Institute of Technology, majoring in Artificial Intelligence at the Computing Faculty.
+- 🔭 Currently, I am a Research Intern at Shanghai AI Laboratory and will soon begin my PhD studies at Shanghai Jiao Tong University.
+- ✨ My research interests primarily focus on multi-modal large language models and generative models.
+- 💬 I am always open to academic collaboration and would love to engage in creative projects. If you have any questions or topics you'd like to discuss, feel free to reach out to me at zhangzhixiong@pjlab.org.cn.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rookiexiong7)](https://git.io/streak-stats)
 <!--
