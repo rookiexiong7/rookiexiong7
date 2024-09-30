@@ -1,5 +1,5 @@
 ## About ME👋
-- 😄 Hi，I'm Zhixiong Zhang.
+- 😄 Hi, I'm Zhixiong Zhang.
 - 💻 I am in my final year as a bachelor's degree candidate at Harbin Institute of Technology, majoring in Artificial Intelligence at the Computing Faculty.
 - 🔭 Currently, I am a Research Intern at Shanghai AI Laboratory and will soon begin my PhD studies at Shanghai Jiao Tong University.
 - ✨ My research interests primarily focus on multi-modal large language models and generative models.
