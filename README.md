@@ -5,8 +5,9 @@
 - ✨ My research interests primarily focus on multi-modal large language models and generative models.
 - 💬 I am always open to academic collaboration and would love to engage in creative projects. If you have any questions or topics you'd like to discuss, feel free to reach out to me at zhangzhixiong@pjlab.org.cn.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rookiexiong7)](https://git.io/streak-stats)
+
 <!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rookiexiong7)](https://git.io/streak-stats)
 **rookiexiong7/rookiexiong7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
