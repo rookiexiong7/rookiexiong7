@@ -1,9 +1,9 @@
 ## About ME👋
 - 😄 Hi, I'm Zhixiong Zhang.
-- 💻 I am in my final year as a bachelor's degree candidate at Harbin Institute of Technology, majoring in Artificial Intelligence at the Computing Faculty.
-- 🔭 Currently, I am a Research Intern at Shanghai AI Laboratory and will soon begin my PhD studies at Shanghai Jiao Tong University.
-- ✨ My research interests primarily focus on Multi-modal Large Language Models and Computer Vision.
-- 💬 I am always open to academic collaboration and would love to engage in creative projects. If you have any questions or topics you'd like to discuss, feel free to reach out to me at zhangzhixiong@pjlab.org.cn.
+- 🎓 I’m an incoming Ph.D. student at Shanghai Jiao Tong University, and I received my bachelor’s degree from the Harbin Institute of Technology in 2025.
+- 🔬 Currently, I’m a Research Intern at the Shanghai AI Laboratory, my research interests lie primarily in Multimodal Large Language Models and Computer Vision.
+- 💬 I'm always open to academic collaboration and enjoy working on creative and impactful projects. If you have any questions or topics you'd like to discuss, feel free to reach out to me at zhangzhixiong@pjlab.org.cn.
+
 
 
 <!--
@@ -11,7 +11,7 @@
 **rookiexiong7/rookiexiong7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- in my final year as a bachelor's degree candidate at Harbin Institute of Technology, majoring in Artificial Intelligence at the Computing Faculty.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
