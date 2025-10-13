@@ -1,12 +1,13 @@
 ## About ME👋
 - 😄 Hi, I'm Zhixiong Zhang.
-- 🎓 I’m a 1st Ph.D. student at Shanghai Jiao Tong University, and I received my bachelor’s degree from the Harbin Institute of Technology in 2025.
-- 🔬 Currently, I’m a Research Intern at the Shanghai AI Laboratory, my research interests lie primarily in Multimodal Large Language Models and Computer Vision.
+- 🎓 I’m a 1st Ph.D. student at Shanghai Jiao Tong University and Shanghai Innovation Institute, and I received my bachelor’s degree from the Harbin Institute of Technology in 2025.
+- 🔬 My research interests lie primarily in Multimodal Large Language Models and Computer Vision.
 - 💬 I'm always open to academic collaboration and enjoy working on creative and impactful projects. If you have any questions or topics you'd like to discuss, feel free to reach out to me at zx.zhang@sjtu.edu.cn.
 
 
 
 <!--
+Currently, I’m a Research Intern at the Shanghai AI Laboratory, 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rookiexiong7)](https://git.io/streak-stats)
 **rookiexiong7/rookiexiong7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
