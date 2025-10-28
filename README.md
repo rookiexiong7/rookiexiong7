@@ -1,6 +1,6 @@
 ## About ME👋
 - 😄 Hi, I'm Zhixiong Zhang.
-- 🎓 I’m a 1st year Ph.D. student at Shanghai Jiao Tong University and Shanghai Innovation Institute, and I received my bachelor’s degree from the Harbin Institute of Technology in 2025.
+- 🎓 I’m a 1st year Ph.D. student at Shanghai Jiao Tong University and Shanghai Innovation Institute. Prior to that, I received the bachelor’s degree from Harbin Institute of Technology in 2025.
 - 🔬 My research interests lie primarily in Multimodal Large Language Models and Computer Vision.
 - 💬 I'm always open to academic collaboration and enjoy working on creative and impactful projects. If you have any questions or topics you'd like to discuss, feel free to reach out to me at zx.zhang@sjtu.edu.cn.
 
