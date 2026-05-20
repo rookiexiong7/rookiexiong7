@@ -1,7 +1,7 @@
 ## About ME👋
 - 😄 Hi, I'm Zhixiong Zhang.
 - 🎓 I’m a 1st year Ph.D. student at Shanghai Jiao Tong University and Shanghai Innovation Institute. Prior to that, I received my bachelor’s degree from Harbin Institute of Technology in 2025.
-- 🔬 My research interests lie primarily in Multimodal Large Language Models and Computer Vision.
+- 🔬 My current research focuses on advancing Fine-grained Perception capabilities of Large Vision-Language Models, with a particular emphasis on Spatial Intelligence, Visual Grounding, and Segmentation. I am also interested in embodied and interactive AI agents, especially their perception, reasoning, and action in open-world environments.
 - 💬 I'm always open to academic collaboration and enjoy working on creative and impactful projects. If you have any questions or topics you'd like to discuss, feel free to reach out to me at zx.zhang@sjtu.edu.cn.
 
 
